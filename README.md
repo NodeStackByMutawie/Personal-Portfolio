@@ -46,8 +46,8 @@ This project showcases my skills, education, experience, and provides ways to co
 **Name:** Mohammed Ramadan Matawae  
 - **Location:** Beni Suef, Egypt  
 - **LinkedIn:** [www.linkedin.com/in/ mohammed-mutawie-dev ] 
-- **Twitter:** [Your Twitter Link](#)  
-- **Email:** [Your Email Here](#)
+- **Twitter:** [https://x.com/MohamedR830](#)  
+- **Email:** [mohammed.mutawie6@gmail.com](#)
 
 ---
 
